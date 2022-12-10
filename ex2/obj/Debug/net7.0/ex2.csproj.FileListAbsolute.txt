@@ -1,0 +1,15 @@
+/Users/marikamiki/Desktop/Work/IT/C#/HWc#1/ex2/bin/Debug/net7.0/ex2
+/Users/marikamiki/Desktop/Work/IT/C#/HWc#1/ex2/bin/Debug/net7.0/ex2.deps.json
+/Users/marikamiki/Desktop/Work/IT/C#/HWc#1/ex2/bin/Debug/net7.0/ex2.runtimeconfig.json
+/Users/marikamiki/Desktop/Work/IT/C#/HWc#1/ex2/bin/Debug/net7.0/ex2.dll
+/Users/marikamiki/Desktop/Work/IT/C#/HWc#1/ex2/bin/Debug/net7.0/ex2.pdb
+/Users/marikamiki/Desktop/Work/IT/C#/HWc#1/ex2/obj/Debug/net7.0/ex2.csproj.AssemblyReference.cache
+/Users/marikamiki/Desktop/Work/IT/C#/HWc#1/ex2/obj/Debug/net7.0/ex2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marikamiki/Desktop/Work/IT/C#/HWc#1/ex2/obj/Debug/net7.0/ex2.AssemblyInfoInputs.cache
+/Users/marikamiki/Desktop/Work/IT/C#/HWc#1/ex2/obj/Debug/net7.0/ex2.AssemblyInfo.cs
+/Users/marikamiki/Desktop/Work/IT/C#/HWc#1/ex2/obj/Debug/net7.0/ex2.csproj.CoreCompileInputs.cache
+/Users/marikamiki/Desktop/Work/IT/C#/HWc#1/ex2/obj/Debug/net7.0/ex2.dll
+/Users/marikamiki/Desktop/Work/IT/C#/HWc#1/ex2/obj/Debug/net7.0/refint/ex2.dll
+/Users/marikamiki/Desktop/Work/IT/C#/HWc#1/ex2/obj/Debug/net7.0/ex2.pdb
+/Users/marikamiki/Desktop/Work/IT/C#/HWc#1/ex2/obj/Debug/net7.0/ex2.genruntimeconfig.cache
+/Users/marikamiki/Desktop/Work/IT/C#/HWc#1/ex2/obj/Debug/net7.0/ref/ex2.dll
