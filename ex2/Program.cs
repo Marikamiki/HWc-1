@@ -13,10 +13,21 @@ Console.Write("Enter number b: ");
 int numberB = int.Parse(Console.ReadLine());
 
 int max = numberA;
+int min = numberA;
 
-if (numberA > max) max = numberA;
-if (numberB > max) max = numberB;
-
+if (numberA > max) 
+{
+    max = numberA; 
+    min = numberB;
+}
+if (numberB > max) 
+{
+    max = numberB;
+    min = numberA;
+}
 
 Console.Write ("max = ");
 Console.WriteLine (max);
+
+Console.Write ("min = ");
+Console.WriteLine (min);
